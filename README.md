@@ -8,6 +8,8 @@ This is a Simple React To-Do list application that allows you to keep track of t
 ## How It's Made:
 This application is made with React.
 
+https://fleurimondtodolist.herokuapp.com/
+
 ## Optimizations.
 I would like to style this better probably use Bootstrap and actually use a npm package called Postmark and receive a email when onClick.
 
