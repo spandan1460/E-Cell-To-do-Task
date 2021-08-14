@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
   return (
     <header style={headerStyle}>
-      <h1> REACT TO-DO APP 2019 </h1>
+      <h1> REACT TO-DO App E-Cell </h1>
     </header>
   );
 }
